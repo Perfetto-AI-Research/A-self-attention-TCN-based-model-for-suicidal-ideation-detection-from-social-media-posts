@@ -20,7 +20,7 @@ Executing the codes is pretty straightforward. To run the code, you should follo
     6- Evaluating the model on the test dataset
 
 ## Data Analysis
-The analyses conducted on the suicidal tweets used in our paper include semantic analysis, sentiment analysis, and topic prediction. These analyses are all included in the Data Analysis folder. You can refer to these implementations for further analyzing the datasets, in particular suicidal tweets. Such analyses can provide a proper insight regarding the differences between a suicidal note and a typical non-suicidal tweet. 
+The analyses conducted on the suicidal tweets used in our paper include semantic analysis, sentiment analysis, and topic prediction. These analyses are all included in the Data Analysis folder. You can refer to these implementations for further analyzing the datasets, in particular suicidal tweets. Such analyses can provide a proper insight regarding the differences between a suicidal note and a typical non-suicidal tweet. You can find the dataset from the following link: https://drive.google.com/file/d/1p3c0kcrer5SzieGN-KMnV8Pq3wvO0P-5/view?usp=sharing 
 
 ## State-of-the-art Baselines
 The recently published baselines are presented in the State of the Art Baselines folder. The execution of these models is principally similar to the practical guideline written above. Following the same process of loading, preprocessing, and balancing the datasets, defining the models, and training and evaluating these models, the mere difference is related to the model definition which is based on the architectures presented in referenced papers [[1]](#1) [[2]](#2). 
