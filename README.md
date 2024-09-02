@@ -22,6 +22,12 @@ Executing the codes is pretty straightforward. To run the code, you should follo
 ## Data Analysis
 The analyses conducted on the suicidal tweets used in our paper include semantic analysis, sentiment analysis, and topic prediction. These analyses are all included in the Data Analysis folder. You can refer to these implementations for further analyzing the datasets, in particular suicidal tweets. Such analyses can provide a proper insight regarding the differences between a suicidal note and a typical non-suicidal tweet. You can find the dataset from the following link: https://drive.google.com/file/d/1p3c0kcrer5SzieGN-KMnV8Pq3wvO0P-5/view?usp=sharing 
 
+##  Cite This Paper in Your Research
+If you find this work useful and plan to reference it in your publications, please use the following citation:
+Mirtaheri, S. L., Greco, S., & Shahbazian, R. (2024). A self-attention TCN-based model for suicidal ideation detection from social media posts. Expert Systems With Applications, 255, 124855. https://doi.org/10.1016/j.eswa.2024.124855
+📄 Read the Full Paper Here: https://www.sciencedirect.com/science/article/pii/S0957417424017226
+
+
 ## State-of-the-art Baselines
 The recently published baselines are presented in the State of the Art Baselines folder. The execution of these models is principally similar to the practical guideline written above. Following the same process of loading, preprocessing, and balancing the datasets, defining the models, and training and evaluating these models, the mere difference is related to the model definition which is based on the architectures presented in referenced papers [[1]](#1) [[2]](#2). 
 
